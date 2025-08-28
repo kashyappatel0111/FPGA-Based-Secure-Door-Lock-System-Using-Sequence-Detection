@@ -1,0 +1,21 @@
+NET "clk" LOC = "P84";  # 50 MHz clock
+NET "sw[0]" LOC = "P22";
+NET "sw[1]" LOC = "P21";
+NET "sw[2]" LOC = "P17";
+NET "sw[3]" LOC = "P16";
+
+NET "confirm_button" LOC = "P45";  # Push button
+
+NET "seg[0]" LOC = "P134";
+NET "seg[1]" LOC = "P137";
+NET "seg[2]" LOC = "P138";
+NET "seg[3]" LOC = "P139";
+NET "seg[4]" LOC = "P140";
+NET "seg[5]" LOC = "P141";
+NET "seg[6]" LOC = "P142";
+NET "seg[7]" LOC = "P143";
+
+NET "an[0]" LOC = "P127";
+NET "an[1]" LOC = "P131";
+NET "an[2]" LOC = "P132";
+NET "an[3]" LOC = "P133";
